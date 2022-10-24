@@ -3,7 +3,7 @@
   <br />
  Self Hosting Guide
 </h1>
-
+ 
  #### A guide for getting started with Self Hosting devices including software and hardware that will make you a better and more efficient Self Hosting.
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
